@@ -13,4 +13,4 @@
 * # education
 > Samara State College, Art
 * # english
-> A
+> A1
